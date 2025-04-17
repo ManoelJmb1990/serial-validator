@@ -1,0 +1,5 @@
+{
+    "abc123": { "usado": false, "dispositivo_id": "" },
+    "def456": { "usado": true, "dispositivo_id": "abc-456-xyz" }
+  }
+  
